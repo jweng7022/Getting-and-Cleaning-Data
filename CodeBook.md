@@ -1,4 +1,4 @@
-# Introduct of Project
+# Introduction of Project
 
 This purpose of this project is to demonstrate the user's ability to collect, work with, and clean a data set for donwstream analysis.
 
