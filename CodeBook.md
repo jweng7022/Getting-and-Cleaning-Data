@@ -10,10 +10,14 @@ A full description of the data can be found in the following link:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 # Variables:
-x_test, y_test, x_train, y_train, subject_test, and subject_train are txt files contain in the data se available for download.
+x_test, y_test, x_train, y_train, subject_test, and subject_train are txt files contain in the data available for download.
+
 x_data, y_data, and subject_data are txt files combined by user.
+
 feature and activity_labels are txt files containing the desired column names for the tidy data set.
+
 feature2 is the file created by user where the desired column name is extracted.
+
 tidy_data is the txt file created after the user performed cleaning on the raw data.
 
 # Procedure
